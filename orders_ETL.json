@@ -1,0 +1,319 @@
+[
+  {
+    "order_id": 1,
+    "order_date": "2024-01-10",
+    "total_amount": 200.50,
+    "customer": {
+      "customer_id": 101,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "address": "123 Main StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P02",
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 45.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 2,
+    "order_date": "2024-01-12",
+    "total_amount": 150.00,
+    "customer": {
+      "customer_id": 102,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "address": "456 Oak StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P03",
+        "name": "Laptop Stand",
+        "category": "Electronics",
+        "price": 75.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 3,
+    "order_date": "2024-01-12",
+    "total_amount": 120.00,
+    "customer": {
+      "customer_id": 103,
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "address": "789 Birch StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P04",
+        "name": "Gaming Headset",
+        "category": "Electronics",
+        "price": 60.00,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 4,
+    "order_date": "2024-01-13",
+    "total_amount": 300.50,
+    "customer": {
+      "customer_id": 101,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "address": "123 Main StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 3
+      },
+      {
+        "product_id": "P02",
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 45.00,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 5,
+    "order_date": "2024-01-14",
+    "total_amount": 180.00,
+    "customer": {
+      "customer_id": 104,
+      "name": "Bob Brown",
+      "email": "bobbrown@example.com",
+      "address": "101 Maple StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P03",
+        "name": "Laptop Stand",
+        "category": "Electronics",
+        "price": 75.00,
+        "quantity": 1
+      },
+      {
+        "product_id": "P04",
+        "name": "Gaming Headset",
+        "category": "Electronics",
+        "price": 60.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 6,
+    "order_date": "2024-01-14",
+    "total_amount": 250.00,
+    "customer": {
+      "customer_id": 105,
+      "name": "Sania",
+      "email": "sania@example.com",
+      "address": "102 Pine StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P02",
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 45.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P04",
+        "name": "Gaming Headset",
+        "category": "Electronics",
+        "price": 60.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 7,
+    "order_date": "2024-01-16",
+    "total_amount": 180.00,
+    "customer": {
+      "customer_id": 106,
+      "name": "Rohit",
+      "email": "rohit@example.com",
+      "address": "103 Cedar StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P02",
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 45.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P05",
+        "name": "Desk Organizer",
+        "category": "Furniture",
+        "price": 30.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 8,
+    "order_date": "2024-01-16",
+    "total_amount": 230.00,
+    "customer": {
+      "customer_id": 107,
+      "name": "Nina Patel",
+      "email": "ninapatel@example.com",
+      "address": "104 Birch StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 3
+      },
+      {
+        "product_id": "P03",
+        "name": "Laptop Stand",
+        "category": "Electronics",
+        "price": 75.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 9,
+    "order_date": "2024-01-17",
+    "total_amount": 310.00,
+    "customer": {
+      "customer_id": 108,
+      "name": "Tom Harris",
+      "email": "tomharris@example.com",
+      "address": "105 Oak StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P04",
+        "name": "Gaming Headset",
+        "category": "Electronics",
+        "price": 60.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P02",
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 45.00,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 10,
+    "order_date": "2024-01-18",
+    "total_amount": 130.00,
+    "customer": {
+      "customer_id": 109,
+      "name": "Eva Lee",
+      "email": "evalee@example.com",
+      "address": "106 Elm StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P05",
+        "name": "Desk Organizer",
+        "category": "Furniture",
+        "price": 30.00,
+        "quantity": 1
+      },
+      {
+        "product_id": "P03",
+        "name": "Laptop Stand",
+        "category": "Electronics",
+        "price": 75.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 11,
+    "order_date": "2024-01-18",
+    "total_amount": 250.00,
+    "customer": {
+      "customer_id": 101,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "address": "123 Main StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P04",
+        "name": "Gaming Headset",
+        "category": "Electronics",
+        "price": 60.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P02",
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 45.00,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 12,
+    "order_date": "2024-01-19",
+    "total_amount": 180.00,
+    "customer": {
+      "customer_id": 103,
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "address": "789 Birch StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P05",
+        "name": "Desk Organizer",
+        "category": "Furniture",
+        "price": 30.00,
+        "quantity": 1
+      }
+    ]
+  }
+]
